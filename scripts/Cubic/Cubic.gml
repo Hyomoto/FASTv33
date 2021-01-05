@@ -1,11 +1,14 @@
-function cubic_ease_in( _x ) {
+cubic_ease_in = function( _x ) {
 	return _x * _x * _x;
 }
 
-function cubic_ease_out( _x ) {
+cubic_ease_out = function( _x ) {
 	return 1 - power(1 - _x, 3);
 }
 
-function cubic_ease_in_out( _x ) {
-	return _x < 0.5 ? 4 * _x * _x * _x : 1 - power(-2 * _x + 2, 3) / 2;
+ cubic_ease_in_out = function( _x ) {
+	if (_x < 0.5) {
+		return 4 * _x * _x * _x;
+	}
+	return 1 - power(-2 * _x + 2, 3) / 2;
 }

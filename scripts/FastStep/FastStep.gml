@@ -1,6 +1,11 @@
 #macro FASTSTEP_DEFAULT_PRECISION 32.0
 
 function FastStep( _lambda ) constructor {
+
+	lookup		= undefined;
+	lambda		= _lambda;
+	precision	= argument_count > 1 ? argument[1] : FASTSTEP_DEFAULT_PRECISION;
+
 	
 	static reset	= function( _precision ) {
 		precision = _precision;
@@ -46,9 +51,5 @@ function FastStep( _lambda ) constructor {
 		return evaluate( _x ) - lambda( _x );	
 	}
 	
-	lookup		= undefined;
-	lambda		= _lambda;
-	precision	= argument_count > 1 ? argument[1] : FASTSTEP_DEFAULT_PRECISION;
-
 	reset( precision );
 }

@@ -1,14 +1,38 @@
-function expo_ease_in( _x ) {
-	return _x == 0 ? 0 : power(2, 10 * _x - 10);
+expo_ease_in = function( _x ) {
+	switch _x {
+		case 0:
+			return 0;
+		break;
+		default:
+			return power(2, 10 * _x - 10);
+		break;
+	}
 }
 
-function expo_ease_out( _x ) {
-	return _x == 1 ? 1 : 1 - pow(2, -10 * _x);
+expo_ease_out = function( _x ) {
+	switch _x {
+		case 1:
+			return 1;
+		break;
+		default:
+			return 1 - power(2, -10 * _x);
+		break;
+	}
 }
 
-function expo_ease_in_out( _x ) {
-	return	_x == 0 ? 0 
-			: _x == 1 ? 1
-			   : _x < 0.5 ? power(2, 20 * _x - 10) / 2
-			: (2 - power(2, -20 * _x + 10)) / 2;
+expo_ease_in_out = function( _x ) {
+	switch _x {
+		case 0:
+			return 0;
+		break;
+		case 1:
+			return 1;
+		break;
+		default:
+			if (_x < 0.5) {
+				return power(2, 20 * _x - 10) / 2;
+			}
+			return (2 - power(2, -20 * _x + 10)) / 2;
+		break;
+	}
 }
