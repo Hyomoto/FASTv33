@@ -1,14 +1,14 @@
 /// @func Vec2
-/// @param {real} x The x position in this vector
-/// @param {real} y The y position in this vector
+/// @param {real} x The x component in this vector
+/// @param {real} y The y component in this vector
 /// @desc A simple, garbage-collected two-dimensional vector.
 /// @example
 //var _vec2 = new Vec2( 32, 20 );
 /// @wiki Core-Index
 function Vec2( _x, _y ) constructor {
-	/// @param {real} x The x position to set this vector
-	/// @param {real} y The y position to set this vector
-	/// @desc Used to set both the x and y coordinates in this vector with a single method.
+	/// @param {real} x The x component to set this vector
+	/// @param {real} y The y component to set this vector
+	/// @desc Used to set both the x and y components in this vector with a single method.
 	static set	= function( _x, _y ) {
 		x	= _x;
 		y	= _y;
@@ -24,7 +24,7 @@ function Vec2( _x, _y ) constructor {
 	static lensqr	= function() {
 		return (x * x + y * y);	
 	}
-	/// @param {Vec2} Vec2 The vector to subtract from this one.
+	/// @param {Vec2} Vec2 The vector toThe vector to add to this one.
 	/// @returns Vec2
 	static add	= function( _Vec2 ) { return new Vec2( x + _Vec2.x, y + _Vec2.y ); }
 	/// @param {Vec2} Vec2 The vector to subtract from this one.
@@ -52,9 +52,20 @@ function Vec2( _x, _y ) constructor {
 		
 	}
 	/// @param {Vec2} Vec2 The vector to get the cross product with.
+	/// @param {real] the z-Override. Assumed as 0.
 	/// @returns Vec2
 	static cross	= function( _Vec2 ) {
-		return (x * _Vec2.x - y * _Vec2.y);
+		z = is_undefined(argument[1]) ? 0 : argument[1];
+		
+		x = y * z - z * _Vec2.y;
+		y = z * _Vec2.x - x * z;
+		
+		return new Vec2( x, y );
+	}
+	/// @param {Vec2} Vec2 The vector to get the z-Component scalar with.
+	/// @returns real
+	static scalarcross = function( _Vec2 ) {
+		return x * _Vec2.y - y * _Vec2.x;	
 	}
 	/// @param {Vec2} Vec2 The vector to get the distance to.
 	/// @returns real
@@ -70,16 +81,21 @@ function Vec2( _x, _y ) constructor {
 	/// @returns Vec2
 	/// @desc Used to normalise the vector to unit length.
 	static normalize	= function() {
-		var _len_sqr	= lensqr();
 		var _len		= 0;
-		
-		if ( _len_sqr != 0 ) {
 			_len	= sqrt( _len );
 			
 			set( x / _len, y / _len);
-		}
-		
+			
 		return self;
+	}
+	
+	/// @returns Vec2
+	/// @desc Used to get the vectors unit length.
+	static normalized	= function() {
+		var _len		= 0;
+			_len	= sqrt( _len );
+			
+		return new Vec2( x / _len, y / _len);
 	}
 	/// @desc Returns this vector as an array.
 	/// @returns array `[ x, y ]`
@@ -97,9 +113,9 @@ function Vec2( _x, _y ) constructor {
 		return _data_type == Vec2;
 		
 	}
-	/// @desc the x position of this vector
+	/// @desc the x component of this vector
 	x	= 0;
-	/// @desc the y position of this vector
+	/// @desc the y component of this vector
 	y	= 0;
 	
 	set( _x, _y );

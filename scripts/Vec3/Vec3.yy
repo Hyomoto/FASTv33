@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Easing",
-    "path": "folders/FAST/Core/Math/Interpolation/Easing.yy",
+    "name": "Geometry",
+    "path": "folders/FAST/Core/Math/Geometry.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Circ",
+  "name": "Vec3",
   "tags": [],
   "resourceType": "GMScript",
 }
