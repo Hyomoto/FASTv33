@@ -1,0 +1,4 @@
+// 2021-03-08 16:04:31
+function ease_in_circ( _x ) {
+	return 1 - sqrt(1 - power(_x, 2));
+}

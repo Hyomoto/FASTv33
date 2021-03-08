@@ -1,0 +1,4 @@
+// 2021-03-08 16:07:59
+function ease_in_quad( _x ) {
+	return _x * _x;	
+}

@@ -1,0 +1,4 @@
+// 2021-03-08 16:00:32
+function ease_out_sine( _x ) {
+	return sin((_x * pi) / 2);
+}

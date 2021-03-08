@@ -1,0 +1,4 @@
+// 2021-03-08 16:00:36
+function ease_in_out_sine( _x ) {
+	return -(cos(pi * _x) - 1) / 2;
+}

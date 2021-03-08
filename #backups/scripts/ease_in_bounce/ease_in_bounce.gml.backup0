@@ -1,0 +1,4 @@
+// 2021-03-08 16:03:16
+function ease_in_bounce( _x ) {
+	return 1 - ease_in_bounce(1 - _x);
+}

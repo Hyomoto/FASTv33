@@ -1,0 +1,4 @@
+// 2021-03-08 16:05:58
+function ease_in_cubic( _x ) {
+	return _x * _x * _x;
+}

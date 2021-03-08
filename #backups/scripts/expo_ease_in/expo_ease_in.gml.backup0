@@ -1,0 +1,11 @@
+// 2021-03-08 15:52:17
+function expo_ease_in( _x ) {
+	switch _x {
+		case 0:
+			return 0;
+		break;
+		default:
+			return power(2, 10 * _x - 10);
+		break;
+	}
+}
