@@ -1,0 +1,1759 @@
+You are using YYP Maker v1.1.2, released in 11-04-2021
+
+
+
+[24-06-2021 16:21:10] Initialized GameMaker Project: FAST.yyp
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/animcurves
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/datafiles
+[24-06-2021 16:21:10] Checking test2.txt
+[24-06-2021 16:21:10] Checking test.txt
+[24-06-2021 16:21:10] Checking test
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/datafiles/test
+[24-06-2021 16:21:10] Checking strings-e.ffd
+[24-06-2021 16:21:10] Checking patch
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/datafiles/patch
+[24-06-2021 16:21:10] Checking database.ffd
+[24-06-2021 16:21:10] Checking base
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/datafiles/base
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/datafiles/base
+[24-06-2021 16:21:10] Checking treasure.ffd
+[24-06-2021 16:21:10] Checking spells.ffd
+[24-06-2021 16:21:10] Checking speech.ffd
+[24-06-2021 16:21:10] Checking shops.ffd
+[24-06-2021 16:21:10] Checking items.ffd
+[24-06-2021 16:21:10] Checking enemies.ffd
+[24-06-2021 16:21:10] Checking effects.ffd
+[24-06-2021 16:21:10] Checking classes.ffd
+[24-06-2021 16:21:10] Checking battle.ffd
+[24-06-2021 16:21:10] Checking animate.ffd
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/datafiles/patch
+[24-06-2021 16:21:10] Checking patch.ffd
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/datafiles/test
+[24-06-2021 16:21:10] Checking testD
+[24-06-2021 16:21:10] Checking testC
+[24-06-2021 16:21:10] Checking testB.txt
+[24-06-2021 16:21:10] Checking testA.txt
+[24-06-2021 16:21:10] Checking cases
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/datafiles/test/cases
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/datafiles/test/cases
+[24-06-2021 16:21:10] Checking test_wait.txt
+[24-06-2021 16:21:10] Checking test_traversal.txt
+[24-06-2021 16:21:10] Checking test_return.txt
+[24-06-2021 16:21:10] Checking test_null.txt
+[24-06-2021 16:21:10] Checking test_if.txt
+[24-06-2021 16:21:10] Checking test_func.txt
+[24-06-2021 16:21:10] Checking test_cast.txt
+[24-06-2021 16:21:10] Checking test_arithmetic.txt
+[24-06-2021 16:21:10] Checking test_args.txt
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/extensions
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/fonts
+[24-06-2021 16:21:10] Checking font_sys_debug
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/fonts/font_sys_debug
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/fonts/font_sys_debug
+[24-06-2021 16:21:10] Checking font_sys_debug.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/fonts/font_sys_debug/font_sys_debug.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/fonts/font_sys_debug/font_sys_debug.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/System/Fonts" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/fonts/font_sys_debug/font_sys_debug.yy"
+[24-06-2021 16:21:10] Found Font: font_sys_debug
+[24-06-2021 16:21:10] Checking font_sys_debug.png
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/notes
+[24-06-2021 16:21:10] Checking Manual_Database
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/notes/Manual_Database
+[24-06-2021 16:21:10] Checking Changelog
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/notes/Changelog
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/notes/Changelog
+[24-06-2021 16:21:10] Checking Changelog.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/notes/Changelog/Changelog.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/notes/Changelog/Changelog.yy
+[24-06-2021 16:21:10] ROOT found, not added.
+[24-06-2021 16:21:10] Par: "folders" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/notes/Changelog/Changelog.yy"
+[24-06-2021 16:21:10] Found Note: Changelog
+[24-06-2021 16:21:10] Checking Changelog.txt
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/notes/Manual_Database
+[24-06-2021 16:21:10] Checking Manual_Database.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/notes/Manual_Database/Manual_Database.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/notes/Manual_Database/Manual_Database.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Database/Manual" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/notes/Manual_Database/Manual_Database.yy"
+[24-06-2021 16:21:10] Found Note: Manual_Database
+[24-06-2021 16:21:10] Checking Manual_Database.txt
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/objects
+[24-06-2021 16:21:10] Checking __FASTtool
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/__FASTtool
+[24-06-2021 16:21:10] Checking oTest_Scripts
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/oTest_Scripts
+[24-06-2021 16:21:10] Checking oRenderStack
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/oRenderStack
+[24-06-2021 16:21:10] Checking oPointerWindow
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/oPointerWindow
+[24-06-2021 16:21:10] Checking FASTRender
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/FASTRender
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/FASTRender
+[24-06-2021 16:21:10] Checking FASTRender.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/FASTRender/FASTRender.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/FASTRender/FASTRender.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Render/Objects" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/FASTRender/FASTRender.yy"
+[24-06-2021 16:21:10] Found Object: FASTRender
+[24-06-2021 16:21:10] Checking Draw_77.gml
+[24-06-2021 16:21:10] Checking Create_0.gml
+[24-06-2021 16:21:10] Checking CleanUp_0.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/oPointerWindow
+[24-06-2021 16:21:10] Checking Step_0.gml
+[24-06-2021 16:21:10] Checking oPointerWindow.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/oPointerWindow/oPointerWindow.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/oPointerWindow/oPointerWindow.yy
+[24-06-2021 16:21:10] Par: "folders/TEST_CASES/Pointer" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/oPointerWindow/oPointerWindow.yy"
+[24-06-2021 16:21:10] Found Object: oPointerWindow
+[24-06-2021 16:21:10] Checking Draw_0.gml
+[24-06-2021 16:21:10] Checking Create_0.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/oRenderStack
+[24-06-2021 16:21:10] Checking Other_5.gml
+[24-06-2021 16:21:10] Checking oRenderStack.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/oRenderStack/oRenderStack.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/oRenderStack/oRenderStack.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Render/Objects" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/oRenderStack/oRenderStack.yy"
+[24-06-2021 16:21:10] Found Object: oRenderStack
+[24-06-2021 16:21:10] Checking Draw_0.gml
+[24-06-2021 16:21:10] Checking Create_0.gml
+[24-06-2021 16:21:10] Checking CleanUp_0.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/oTest_Scripts
+[24-06-2021 16:21:10] Checking Step_0.gml
+[24-06-2021 16:21:10] Checking oTest_Scripts.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/oTest_Scripts/oTest_Scripts.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/oTest_Scripts/oTest_Scripts.yy
+[24-06-2021 16:21:10] Par: "folders/TEST_CASES/Scripts" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/oTest_Scripts/oTest_Scripts.yy"
+[24-06-2021 16:21:10] Found Object: oTest_Scripts
+[24-06-2021 16:21:10] Checking KeyPress_82.gml
+[24-06-2021 16:21:10] Checking KeyPress_32.gml
+[24-06-2021 16:21:10] Checking KeyPress_13.gml
+[24-06-2021 16:21:10] Checking Draw_73.gml
+[24-06-2021 16:21:10] Checking Draw_0.gml
+[24-06-2021 16:21:10] Checking Create_0.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/__FASTtool
+[24-06-2021 16:21:10] Checking __FASTtool.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/__FASTtool/__FASTtool.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/__FASTtool/__FASTtool.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/System/Objects" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/objects/__FASTtool/__FASTtool.yy"
+[24-06-2021 16:21:10] Found Object: __FASTtool
+[24-06-2021 16:21:10] Checking Step_2.gml
+[24-06-2021 16:21:10] Checking Step_1.gml
+[24-06-2021 16:21:10] Checking Step_0.gml
+[24-06-2021 16:21:10] Checking Other_75.gml
+[24-06-2021 16:21:10] Checking Other_5.gml
+[24-06-2021 16:21:10] Checking Other_4.gml
+[24-06-2021 16:21:10] Checking Other_3.gml
+[24-06-2021 16:21:10] Checking Create_0.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options
+[24-06-2021 16:21:10] Checking xboxone
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/xboxone
+[24-06-2021 16:21:10] Checking windowsuap
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/windowsuap
+[24-06-2021 16:21:10] Checking windows
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/windows
+[24-06-2021 16:21:10] Checking tvos
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/tvos
+[24-06-2021 16:21:10] Checking switch
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/switch
+[24-06-2021 16:21:10] Checking ps4
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/ps4
+[24-06-2021 16:21:10] Checking main
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/main
+[24-06-2021 16:21:10] Checking mac
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/mac
+[24-06-2021 16:21:10] Checking linux
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/linux
+[24-06-2021 16:21:10] Checking ios
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/ios
+[24-06-2021 16:21:10] Checking html5
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/html5
+[24-06-2021 16:21:10] Checking android
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/android
+[24-06-2021 16:21:10] Checking amazonfire
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/amazonfire
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/amazonfire
+[24-06-2021 16:21:10] Checking options_amazonfire.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/options/amazonfire/options_amazonfire.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/options/amazonfire/options_amazonfire.yy
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/android
+[24-06-2021 16:21:10] Checking options_android.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/options/android/options_android.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/options/android/options_android.yy
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/html5
+[24-06-2021 16:21:10] Checking options_html5.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/options/html5/options_html5.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/options/html5/options_html5.yy
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/ios
+[24-06-2021 16:21:10] Checking options_ios.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/options/ios/options_ios.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/options/ios/options_ios.yy
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/linux
+[24-06-2021 16:21:10] Checking options_linux.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/options/linux/options_linux.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/options/linux/options_linux.yy
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/mac
+[24-06-2021 16:21:10] Checking options_mac.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/options/mac/options_mac.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/options/mac/options_mac.yy
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/main
+[24-06-2021 16:21:10] Checking options_main.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/options/main/options_main.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/options/main/options_main.yy
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/ps4
+[24-06-2021 16:21:10] Checking options_ps4.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/options/ps4/options_ps4.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/options/ps4/options_ps4.yy
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/switch
+[24-06-2021 16:21:10] Checking options_switch.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/options/switch/options_switch.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/options/switch/options_switch.yy
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/tvos
+[24-06-2021 16:21:10] Checking options_tvos.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/options/tvos/options_tvos.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/options/tvos/options_tvos.yy
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/windows
+[24-06-2021 16:21:10] Checking options_windows.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/options/windows/options_windows.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/options/windows/options_windows.yy
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/windowsuap
+[24-06-2021 16:21:10] Checking options_windowsuap.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/options/windowsuap/options_windowsuap.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/options/windowsuap/options_windowsuap.yy
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/options/xboxone
+[24-06-2021 16:21:10] Checking options_xboxone.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/options/xboxone/options_xboxone.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/options/xboxone/options_xboxone.yy
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/paths
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/rooms
+[24-06-2021 16:21:10] Checking Room1
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/rooms/Room1
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/rooms/Room1
+[24-06-2021 16:21:10] Checking Room1.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/rooms/Room1/Room1.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/rooms/Room1/Room1.yy
+[24-06-2021 16:21:10] ROOT found, not added.
+[24-06-2021 16:21:10] Par: "folders" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/rooms/Room1/Room1.yy"
+[24-06-2021 16:21:10] Found Room: Room1
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts
+[24-06-2021 16:21:10] Checking version_to_struct
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/version_to_struct
+[24-06-2021 16:21:10] Checking Vec3
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Vec3
+[24-06-2021 16:21:10] Checking Vec2
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Vec2
+[24-06-2021 16:21:10] Checking variable_traverse_string
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/variable_traverse_string
+[24-06-2021 16:21:10] Checking Timer
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Timer
+[24-06-2021 16:21:10] Checking test_validator
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/test_validator
+[24-06-2021 16:21:10] Checking test_Scripts
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/test_Scripts
+[24-06-2021 16:21:10] Checking test_DsWalkable
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/test_DsWalkable
+[24-06-2021 16:21:10] Checking test_DsLinkedList
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/test_DsLinkedList
+[24-06-2021 16:21:10] Checking SystemOutput
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/SystemOutput
+[24-06-2021 16:21:10] Checking Surface
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Surface
+[24-06-2021 16:21:10] Checking string_trim
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_trim
+[24-06-2021 16:21:10] Checking string_to_real
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_to_real
+[24-06-2021 16:21:10] Checking string_justify
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_justify
+[24-06-2021 16:21:10] Checking string_find_first
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_find_first
+[24-06-2021 16:21:10] Checking string_explode_reverse
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_explode_reverse
+[24-06-2021 16:21:10] Checking string_explode
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_explode
+[24-06-2021 16:21:10] Checking string_con
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_con
+[24-06-2021 16:21:10] Checking StringTime
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/StringTime
+[24-06-2021 16:21:10] Checking StringNumber
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/StringNumber
+[24-06-2021 16:21:10] Checking StringFormatter
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/StringFormatter
+[24-06-2021 16:21:10] Checking String
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/String
+[24-06-2021 16:21:10] Checking Sine
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Sine
+[24-06-2021 16:21:10] Checking ShapeRectangle
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapeRectangle
+[24-06-2021 16:21:10] Checking ShapePolygon
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapePolygon
+[24-06-2021 16:21:10] Checking ShapeGrid
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapeGrid
+[24-06-2021 16:21:10] Checking ShapeEllipses
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapeEllipses
+[24-06-2021 16:21:10] Checking ShapeCircle
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapeCircle
+[24-06-2021 16:21:10] Checking Shape
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Shape
+[24-06-2021 16:21:10] Checking script_file_load
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/script_file_load
+[24-06-2021 16:21:10] Checking script_evaluate_traverse_set
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/script_evaluate_traverse_set
+[24-06-2021 16:21:10] Checking script_evaluate_traverse
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/script_evaluate_traverse
+[24-06-2021 16:21:10] Checking script_evaluate_expression
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/script_evaluate_expression
+[24-06-2021 16:21:10] Checking ScriptStatement
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptStatement
+[24-06-2021 16:21:10] Checking ScriptParser
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptParser
+[24-06-2021 16:21:10] Checking ScriptManager
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptManager
+[24-06-2021 16:21:10] Checking ScriptExpressionValues
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptExpressionValues
+[24-06-2021 16:21:10] Checking ScriptExpression
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptExpression
+[24-06-2021 16:21:10] Checking ScriptEngine
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptEngine
+[24-06-2021 16:21:10] Checking Script
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Script
+[24-06-2021 16:21:10] Checking RenderManager
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/RenderManager
+[24-06-2021 16:21:10] Checking RenderList
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/RenderList
+[24-06-2021 16:21:10] Checking README_math_interpolation_easing
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/README_math_interpolation_easing
+[24-06-2021 16:21:10] Checking PublisherManager
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PublisherManager
+[24-06-2021 16:21:10] Checking PublisherChannel
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PublisherChannel
+[24-06-2021 16:21:10] Checking Publisher
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Publisher
+[24-06-2021 16:21:10] Checking PointerStack
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PointerStack
+[24-06-2021 16:21:10] Checking PointerSimpleMouse
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PointerSimpleMouse
+[24-06-2021 16:21:10] Checking PointerManager
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PointerManager
+[24-06-2021 16:21:10] Checking PointerInterface
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PointerInterface
+[24-06-2021 16:21:10] Checking Parser
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Parser
+[24-06-2021 16:21:10] Checking Pair
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Pair
+[24-06-2021 16:21:10] Checking MouseWheelUp
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/MouseWheelUp
+[24-06-2021 16:21:10] Checking MouseWheelDown
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/MouseWheelDown
+[24-06-2021 16:21:10] Checking MouseButton
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/MouseButton
+[24-06-2021 16:21:10] Checking log_notify
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/log_notify
+[24-06-2021 16:21:10] Checking log_nonfatal
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/log_nonfatal
+[24-06-2021 16:21:10] Checking log_debug
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/log_debug
+[24-06-2021 16:21:10] Checking log_critical
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/log_critical
+[24-06-2021 16:21:10] Checking LogManager
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/LogManager
+[24-06-2021 16:21:10] Checking Logger
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Logger
+[24-06-2021 16:21:10] Checking KeyboardKey
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/KeyboardKey
+[24-06-2021 16:21:10] Checking is_struct_of
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/is_struct_of
+[24-06-2021 16:21:10] Checking int_wrap
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/int_wrap
+[24-06-2021 16:21:10] Checking InputMethod
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputMethod
+[24-06-2021 16:21:10] Checking InputManager
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputManager
+[24-06-2021 16:21:10] Checking InputGeneric
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputGeneric
+[24-06-2021 16:21:10] Checking InputDevice
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputDevice
+[24-06-2021 16:21:10] Checking InputCombo
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputCombo
+[24-06-2021 16:21:10] Checking include
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/include
+[24-06-2021 16:21:10] Checking GenericOutput
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GenericOutput
+[24-06-2021 16:21:10] Checking gc_stack_create
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_stack_create
+[24-06-2021 16:21:10] Checking gc_queue_create
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_queue_create
+[24-06-2021 16:21:10] Checking gc_priority_queue_create
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_priority_queue_create
+[24-06-2021 16:21:10] Checking gc_map_create
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_map_create
+[24-06-2021 16:21:10] Checking gc_list_create
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_list_create
+[24-06-2021 16:21:10] Checking gc_grid_create
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_grid_create
+[24-06-2021 16:21:10] Checking GarbageManager
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GarbageManager
+[24-06-2021 16:21:10] Checking GamepadXbox
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GamepadXbox
+[24-06-2021 16:21:10] Checking GamepadPlaystation
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GamepadPlaystation
+[24-06-2021 16:21:10] Checking GamepadManager
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GamepadManager
+[24-06-2021 16:21:10] Checking Gamepad
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Gamepad
+[24-06-2021 16:21:10] Checking FrameEvent
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FrameEvent
+[24-06-2021 16:21:10] Checking file_get_directory
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/file_get_directory
+[24-06-2021 16:21:10] Checking FileText
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileText
+[24-06-2021 16:21:10] Checking FileManager
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileManager
+[24-06-2021 16:21:10] Checking FileFAST
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileFAST
+[24-06-2021 16:21:10] Checking FileCSV
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileCSV
+[24-06-2021 16:21:10] Checking FileBinary
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileBinary
+[24-06-2021 16:21:10] Checking File
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/File
+[24-06-2021 16:21:10] Checking Feature
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Feature
+[24-06-2021 16:21:10] Checking FAST_macros
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FAST_macros
+[24-06-2021 16:21:10] Checking FAST_features
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FAST_features
+[24-06-2021 16:21:10] Checking FastStep
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FastStep
+[24-06-2021 16:21:10] Checking FASTManager
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FASTManager
+[24-06-2021 16:21:10] Checking Elastic
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Elastic
+[24-06-2021 16:21:10] Checking ease_out_sine
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_sine
+[24-06-2021 16:21:10] Checking ease_out_quint
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_quint
+[24-06-2021 16:21:10] Checking ease_out_quart
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_quart
+[24-06-2021 16:21:10] Checking ease_out_quad
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_quad
+[24-06-2021 16:21:10] Checking ease_out_expo
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_expo
+[24-06-2021 16:21:10] Checking ease_out_elastic
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_elastic
+[24-06-2021 16:21:10] Checking ease_out_cubic
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_cubic
+[24-06-2021 16:21:10] Checking ease_out_circ
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_circ
+[24-06-2021 16:21:10] Checking ease_out_bounce
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_bounce
+[24-06-2021 16:21:10] Checking ease_out_back
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_back
+[24-06-2021 16:21:10] Checking ease_in_sine
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_sine
+[24-06-2021 16:21:10] Checking ease_in_quint
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_quint
+[24-06-2021 16:21:10] Checking ease_in_quart
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_quart
+[24-06-2021 16:21:10] Checking ease_in_quad
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_quad
+[24-06-2021 16:21:10] Checking ease_in_out_sine
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_sine
+[24-06-2021 16:21:10] Checking ease_in_out_quint
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_quint
+[24-06-2021 16:21:10] Checking ease_in_out_quart
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_quart
+[24-06-2021 16:21:10] Checking ease_in_out_quad
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_quad
+[24-06-2021 16:21:10] Checking ease_in_out_expo
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_expo
+[24-06-2021 16:21:10] Checking ease_in_out_elastic
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_elastic
+[24-06-2021 16:21:10] Checking ease_in_out_cubic
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_cubic
+[24-06-2021 16:21:10] Checking ease_in_out_circ
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_circ
+[24-06-2021 16:21:10] Checking ease_in_out_bounce
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_bounce
+[24-06-2021 16:21:10] Checking ease_in_out_back
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_back
+[24-06-2021 16:21:10] Checking ease_in_expo
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_expo
+[24-06-2021 16:21:10] Checking ease_in_elastic
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_elastic
+[24-06-2021 16:21:10] Checking ease_in_cubic
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_cubic
+[24-06-2021 16:21:10] Checking ease_in_circ
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_circ
+[24-06-2021 16:21:10] Checking ease_in_bounce
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_bounce
+[24-06-2021 16:21:10] Checking ease_in_back
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_back
+[24-06-2021 16:21:10] Checking ds_tree_dump
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ds_tree_dump
+[24-06-2021 16:21:10] Checking DsWalkable
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsWalkable
+[24-06-2021 16:21:10] Checking DsTree_Value
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Value
+[24-06-2021 16:21:10] Checking DsTree_Struct
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Struct
+[24-06-2021 16:21:10] Checking DsTree_String
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_String
+[24-06-2021 16:21:10] Checking DsTree_Number
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Number
+[24-06-2021 16:21:10] Checking DsTree_Link
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Link
+[24-06-2021 16:21:10] Checking DsTree_Branch
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Branch
+[24-06-2021 16:21:10] Checking DsTree_Array
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Array
+[24-06-2021 16:21:10] Checking DsTree
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree
+[24-06-2021 16:21:10] Checking DsTable
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTable
+[24-06-2021 16:21:10] Checking DsStack
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsStack
+[24-06-2021 16:21:10] Checking DsQueue
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsQueue
+[24-06-2021 16:21:10] Checking DsMap
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsMap
+[24-06-2021 16:21:10] Checking DsList
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsList
+[24-06-2021 16:21:10] Checking DsLinkedList
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsLinkedList
+[24-06-2021 16:21:10] Checking DsChain
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsChain
+[24-06-2021 16:21:10] Checking draw_bubble
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/draw_bubble
+[24-06-2021 16:21:10] Checking draw_bar
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/draw_bar
+[24-06-2021 16:21:10] Checking DeltaEvent
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DeltaEvent
+[24-06-2021 16:21:10] Checking database_load
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/database_load
+[24-06-2021 16:21:10] Checking DatabaseManager
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DatabaseManager
+[24-06-2021 16:21:10] Checking blank
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/blank
+[24-06-2021 16:21:10] Checking array_unique
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_unique
+[24-06-2021 16:21:10] Checking array_union
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_union
+[24-06-2021 16:21:10] Checking array_to_string
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_to_string
+[24-06-2021 16:21:10] Checking array_quicksort
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_quicksort
+[24-06-2021 16:21:10] Checking array_difference
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_difference
+[24-06-2021 16:21:10] Checking array_contains
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_contains
+[24-06-2021 16:21:10] Checking array_concat
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_concat
+[24-06-2021 16:21:10] Checking ArrayString
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ArrayString
+[24-06-2021 16:21:10] Checking ArrayNumber
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ArrayNumber
+[24-06-2021 16:21:10] Checking ArrayList
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ArrayList
+[24-06-2021 16:21:10] Checking Array
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Array
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Array
+[24-06-2021 16:21:10] Checking Array.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Array/Array.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Array/Array.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Structures/Array" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Array/Array.yy"
+[24-06-2021 16:21:10] Found Script: Array
+[24-06-2021 16:21:10] Checking Array.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ArrayList
+[24-06-2021 16:21:10] Checking ArrayList.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ArrayList/ArrayList.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ArrayList/ArrayList.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Structures/Array" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ArrayList/ArrayList.yy"
+[24-06-2021 16:21:10] Found Script: ArrayList
+[24-06-2021 16:21:10] Checking ArrayList.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ArrayNumber
+[24-06-2021 16:21:10] Checking ArrayNumber.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ArrayNumber/ArrayNumber.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ArrayNumber/ArrayNumber.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Structures/Array" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ArrayNumber/ArrayNumber.yy"
+[24-06-2021 16:21:10] Found Script: ArrayNumber
+[24-06-2021 16:21:10] Checking ArrayNumber.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ArrayString
+[24-06-2021 16:21:10] Checking ArrayString.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ArrayString/ArrayString.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ArrayString/ArrayString.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Structures/Array" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ArrayString/ArrayString.yy"
+[24-06-2021 16:21:10] Found Script: ArrayString
+[24-06-2021 16:21:10] Checking ArrayString.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_concat
+[24-06-2021 16:21:10] Checking array_concat.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_concat/array_concat.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_concat/array_concat.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Functions/array" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_concat/array_concat.yy"
+[24-06-2021 16:21:10] Found Script: array_concat
+[24-06-2021 16:21:10] Checking array_concat.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_contains
+[24-06-2021 16:21:10] Checking array_contains.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_contains/array_contains.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_contains/array_contains.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Functions/array" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_contains/array_contains.yy"
+[24-06-2021 16:21:10] Found Script: array_contains
+[24-06-2021 16:21:10] Checking array_contains.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_difference
+[24-06-2021 16:21:10] Checking array_difference.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_difference/array_difference.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_difference/array_difference.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Functions/array" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_difference/array_difference.yy"
+[24-06-2021 16:21:10] Found Script: array_difference
+[24-06-2021 16:21:10] Checking array_difference.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_quicksort
+[24-06-2021 16:21:10] Checking array_quicksort.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_quicksort/array_quicksort.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_quicksort/array_quicksort.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Functions/array" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_quicksort/array_quicksort.yy"
+[24-06-2021 16:21:10] Found Script: array_quicksort
+[24-06-2021 16:21:10] Checking array_quicksort.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_to_string
+[24-06-2021 16:21:10] Checking array_to_string.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_to_string/array_to_string.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_to_string/array_to_string.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Functions/array" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_to_string/array_to_string.yy"
+[24-06-2021 16:21:10] Found Script: array_to_string
+[24-06-2021 16:21:10] Checking array_to_string.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_union
+[24-06-2021 16:21:10] Checking array_union.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_union/array_union.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_union/array_union.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Functions/array" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_union/array_union.yy"
+[24-06-2021 16:21:10] Found Script: array_union
+[24-06-2021 16:21:10] Checking array_union.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_unique
+[24-06-2021 16:21:10] Checking array_unique.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_unique/array_unique.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_unique/array_unique.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Functions/array" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/array_unique/array_unique.yy"
+[24-06-2021 16:21:10] Found Script: array_unique
+[24-06-2021 16:21:10] Checking array_unique.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/blank
+[24-06-2021 16:21:10] Checking blank.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/blank/blank.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/blank/blank.yy
+[24-06-2021 16:21:10] ROOT found, not added.
+[24-06-2021 16:21:10] Par: "folders" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/blank/blank.yy"
+[24-06-2021 16:21:10] Found Script: blank
+[24-06-2021 16:21:10] Checking blank.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DatabaseManager
+[24-06-2021 16:21:10] Checking DatabaseManager.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DatabaseManager/DatabaseManager.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DatabaseManager/DatabaseManager.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Database" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DatabaseManager/DatabaseManager.yy"
+[24-06-2021 16:21:10] Found Script: DatabaseManager
+[24-06-2021 16:21:10] Checking DatabaseManager.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/database_load
+[24-06-2021 16:21:10] Checking database_load.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/database_load/database_load.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/database_load/database_load.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Database/Functions" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/database_load/database_load.yy"
+[24-06-2021 16:21:10] Found Script: database_load
+[24-06-2021 16:21:10] Checking database_load.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DeltaEvent
+[24-06-2021 16:21:10] Checking DeltaEvent.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DeltaEvent/DeltaEvent.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DeltaEvent/DeltaEvent.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Events" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DeltaEvent/DeltaEvent.yy"
+[24-06-2021 16:21:10] Found Script: DeltaEvent
+[24-06-2021 16:21:10] Checking DeltaEvent.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/draw_bar
+[24-06-2021 16:21:10] Checking draw_bar.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/draw_bar/draw_bar.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/draw_bar/draw_bar.yy
+[24-06-2021 16:21:10] Par: "folders/OTHER/draw" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/draw_bar/draw_bar.yy"
+[24-06-2021 16:21:10] Found Script: draw_bar
+[24-06-2021 16:21:10] Checking draw_bar.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/draw_bubble
+[24-06-2021 16:21:10] Checking draw_bubble.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/draw_bubble/draw_bubble.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/draw_bubble/draw_bubble.yy
+[24-06-2021 16:21:10] Par: "folders/OTHER/draw" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/draw_bubble/draw_bubble.yy"
+[24-06-2021 16:21:10] Found Script: draw_bubble
+[24-06-2021 16:21:10] Checking draw_bubble.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsChain
+[24-06-2021 16:21:10] Checking DsChain.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsChain/DsChain.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsChain/DsChain.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Structures" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsChain/DsChain.yy"
+[24-06-2021 16:21:10] Found Script: DsChain
+[24-06-2021 16:21:10] Checking DsChain.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsLinkedList
+[24-06-2021 16:21:10] Checking DsLinkedList.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsLinkedList/DsLinkedList.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsLinkedList/DsLinkedList.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Structures" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsLinkedList/DsLinkedList.yy"
+[24-06-2021 16:21:10] Found Script: DsLinkedList
+[24-06-2021 16:21:10] Checking DsLinkedList.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsList
+[24-06-2021 16:21:10] Checking DsList.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsList/DsList.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsList/DsList.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Structures" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsList/DsList.yy"
+[24-06-2021 16:21:10] Found Script: DsList
+[24-06-2021 16:21:10] Checking DsList.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsMap
+[24-06-2021 16:21:10] Checking DsMap.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsMap/DsMap.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsMap/DsMap.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Structures" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsMap/DsMap.yy"
+[24-06-2021 16:21:10] Found Script: DsMap
+[24-06-2021 16:21:10] Checking DsMap.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsQueue
+[24-06-2021 16:21:10] Checking DsQueue.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsQueue/DsQueue.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsQueue/DsQueue.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Structures" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsQueue/DsQueue.yy"
+[24-06-2021 16:21:10] Found Script: DsQueue
+[24-06-2021 16:21:10] Checking DsQueue.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsStack
+[24-06-2021 16:21:10] Checking DsStack.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsStack/DsStack.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsStack/DsStack.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Structures" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsStack/DsStack.yy"
+[24-06-2021 16:21:10] Found Script: DsStack
+[24-06-2021 16:21:10] Checking DsStack.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTable
+[24-06-2021 16:21:10] Checking DsTable.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTable/DsTable.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTable/DsTable.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Structures" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTable/DsTable.yy"
+[24-06-2021 16:21:10] Found Script: DsTable
+[24-06-2021 16:21:10] Checking DsTable.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree
+[24-06-2021 16:21:10] Checking DsTree.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree/DsTree.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree/DsTree.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Structures/DsTree" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree/DsTree.yy"
+[24-06-2021 16:21:10] Found Script: DsTree
+[24-06-2021 16:21:10] Checking DsTree.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Array
+[24-06-2021 16:21:10] Checking DsTree_Array.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Array/DsTree_Array.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Array/DsTree_Array.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Structures/DsTree/DsTree" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Array/DsTree_Array.yy"
+[24-06-2021 16:21:10] Found Script: DsTree_Array
+[24-06-2021 16:21:10] Checking DsTree_Array.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Branch
+[24-06-2021 16:21:10] Checking DsTree_Branch.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Branch/DsTree_Branch.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Branch/DsTree_Branch.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Structures/DsTree/DsTree" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Branch/DsTree_Branch.yy"
+[24-06-2021 16:21:10] Found Script: DsTree_Branch
+[24-06-2021 16:21:10] Checking DsTree_Branch.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Link
+[24-06-2021 16:21:10] Checking DsTree_Link.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Link/DsTree_Link.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Link/DsTree_Link.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Structures/DsTree/DsTree" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Link/DsTree_Link.yy"
+[24-06-2021 16:21:10] Found Script: DsTree_Link
+[24-06-2021 16:21:10] Checking DsTree_Link.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Number
+[24-06-2021 16:21:10] Checking DsTree_Number.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Number/DsTree_Number.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Number/DsTree_Number.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Structures/DsTree/DsTree" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Number/DsTree_Number.yy"
+[24-06-2021 16:21:10] Found Script: DsTree_Number
+[24-06-2021 16:21:10] Checking DsTree_Number.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_String
+[24-06-2021 16:21:10] Checking DsTree_String.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_String/DsTree_String.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_String/DsTree_String.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Structures/DsTree/DsTree" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_String/DsTree_String.yy"
+[24-06-2021 16:21:10] Found Script: DsTree_String
+[24-06-2021 16:21:10] Checking DsTree_String.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Struct
+[24-06-2021 16:21:10] Checking DsTree_Struct.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Struct/DsTree_Struct.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Struct/DsTree_Struct.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Structures/DsTree/DsTree" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Struct/DsTree_Struct.yy"
+[24-06-2021 16:21:10] Found Script: DsTree_Struct
+[24-06-2021 16:21:10] Checking DsTree_Struct.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Value
+[24-06-2021 16:21:10] Checking DsTree_Value.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Value/DsTree_Value.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Value/DsTree_Value.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Structures/DsTree/DsTree" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsTree_Value/DsTree_Value.yy"
+[24-06-2021 16:21:10] Found Script: DsTree_Value
+[24-06-2021 16:21:10] Checking DsTree_Value.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsWalkable
+[24-06-2021 16:21:10] Checking DsWalkable.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsWalkable/DsWalkable.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsWalkable/DsWalkable.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Structures" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/DsWalkable/DsWalkable.yy"
+[24-06-2021 16:21:10] Found Script: DsWalkable
+[24-06-2021 16:21:10] Checking DsWalkable.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ds_tree_dump
+[24-06-2021 16:21:10] Checking ds_tree_dump.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ds_tree_dump/ds_tree_dump.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ds_tree_dump/ds_tree_dump.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Structures/DsTree/Functions" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ds_tree_dump/ds_tree_dump.yy"
+[24-06-2021 16:21:10] Found Script: ds_tree_dump
+[24-06-2021 16:21:10] Checking ds_tree_dump.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_back
+[24-06-2021 16:21:10] Checking ease_in_back.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_back/ease_in_back.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_back/ease_in_back.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Back" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_back/ease_in_back.yy"
+[24-06-2021 16:21:10] Found Script: ease_in_back
+[24-06-2021 16:21:10] Checking ease_in_back.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_bounce
+[24-06-2021 16:21:10] Checking ease_in_bounce.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_bounce/ease_in_bounce.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_bounce/ease_in_bounce.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Bounce" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_bounce/ease_in_bounce.yy"
+[24-06-2021 16:21:10] Found Script: ease_in_bounce
+[24-06-2021 16:21:10] Checking ease_in_bounce.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_circ
+[24-06-2021 16:21:10] Checking ease_in_circ.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_circ/ease_in_circ.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_circ/ease_in_circ.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Circ" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_circ/ease_in_circ.yy"
+[24-06-2021 16:21:10] Found Script: ease_in_circ
+[24-06-2021 16:21:10] Checking ease_in_circ.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_cubic
+[24-06-2021 16:21:10] Checking ease_in_cubic.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_cubic/ease_in_cubic.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_cubic/ease_in_cubic.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Cubic" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_cubic/ease_in_cubic.yy"
+[24-06-2021 16:21:10] Found Script: ease_in_cubic
+[24-06-2021 16:21:10] Checking ease_in_cubic.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_elastic
+[24-06-2021 16:21:10] Checking ease_in_elastic.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_elastic/ease_in_elastic.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_elastic/ease_in_elastic.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Elastic" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_elastic/ease_in_elastic.yy"
+[24-06-2021 16:21:10] Found Script: ease_in_elastic
+[24-06-2021 16:21:10] Checking ease_in_elastic.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_expo
+[24-06-2021 16:21:10] Checking ease_in_expo.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_expo/ease_in_expo.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_expo/ease_in_expo.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Expo" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_expo/ease_in_expo.yy"
+[24-06-2021 16:21:10] Found Script: ease_in_expo
+[24-06-2021 16:21:10] Checking ease_in_expo.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_back
+[24-06-2021 16:21:10] Checking ease_in_out_back.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_back/ease_in_out_back.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_back/ease_in_out_back.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Back" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_back/ease_in_out_back.yy"
+[24-06-2021 16:21:10] Found Script: ease_in_out_back
+[24-06-2021 16:21:10] Checking ease_in_out_back.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_bounce
+[24-06-2021 16:21:10] Checking ease_in_out_bounce.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_bounce/ease_in_out_bounce.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_bounce/ease_in_out_bounce.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Bounce" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_bounce/ease_in_out_bounce.yy"
+[24-06-2021 16:21:10] Found Script: ease_in_out_bounce
+[24-06-2021 16:21:10] Checking ease_in_out_bounce.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_circ
+[24-06-2021 16:21:10] Checking ease_in_out_circ.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_circ/ease_in_out_circ.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_circ/ease_in_out_circ.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Circ" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_circ/ease_in_out_circ.yy"
+[24-06-2021 16:21:10] Found Script: ease_in_out_circ
+[24-06-2021 16:21:10] Checking ease_in_out_circ.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_cubic
+[24-06-2021 16:21:10] Checking ease_in_out_cubic.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_cubic/ease_in_out_cubic.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_cubic/ease_in_out_cubic.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Cubic" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_cubic/ease_in_out_cubic.yy"
+[24-06-2021 16:21:10] Found Script: ease_in_out_cubic
+[24-06-2021 16:21:10] Checking ease_in_out_cubic.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_elastic
+[24-06-2021 16:21:10] Checking ease_in_out_elastic.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_elastic/ease_in_out_elastic.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_elastic/ease_in_out_elastic.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Elastic" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_elastic/ease_in_out_elastic.yy"
+[24-06-2021 16:21:10] Found Script: ease_in_out_elastic
+[24-06-2021 16:21:10] Checking ease_in_out_elastic.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_expo
+[24-06-2021 16:21:10] Checking ease_in_out_expo.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_expo/ease_in_out_expo.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_expo/ease_in_out_expo.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Expo" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_expo/ease_in_out_expo.yy"
+[24-06-2021 16:21:10] Found Script: ease_in_out_expo
+[24-06-2021 16:21:10] Checking ease_in_out_expo.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_quad
+[24-06-2021 16:21:10] Checking ease_in_out_quad.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_quad/ease_in_out_quad.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_quad/ease_in_out_quad.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Quad" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_quad/ease_in_out_quad.yy"
+[24-06-2021 16:21:10] Found Script: ease_in_out_quad
+[24-06-2021 16:21:10] Checking ease_in_out_quad.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_quart
+[24-06-2021 16:21:10] Checking ease_in_out_quart.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_quart/ease_in_out_quart.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_quart/ease_in_out_quart.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Quart" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_quart/ease_in_out_quart.yy"
+[24-06-2021 16:21:10] Found Script: ease_in_out_quart
+[24-06-2021 16:21:10] Checking ease_in_out_quart.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_quint
+[24-06-2021 16:21:10] Checking ease_in_out_quint.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_quint/ease_in_out_quint.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_quint/ease_in_out_quint.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Quint" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_quint/ease_in_out_quint.yy"
+[24-06-2021 16:21:10] Found Script: ease_in_out_quint
+[24-06-2021 16:21:10] Checking ease_in_out_quint.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_sine
+[24-06-2021 16:21:10] Checking ease_in_out_sine.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_sine/ease_in_out_sine.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_sine/ease_in_out_sine.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Sine" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_out_sine/ease_in_out_sine.yy"
+[24-06-2021 16:21:10] Found Script: ease_in_out_sine
+[24-06-2021 16:21:10] Checking ease_in_out_sine.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_quad
+[24-06-2021 16:21:10] Checking ease_in_quad.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_quad/ease_in_quad.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_quad/ease_in_quad.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Quad" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_quad/ease_in_quad.yy"
+[24-06-2021 16:21:10] Found Script: ease_in_quad
+[24-06-2021 16:21:10] Checking ease_in_quad.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_quart
+[24-06-2021 16:21:10] Checking ease_in_quart.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_quart/ease_in_quart.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_quart/ease_in_quart.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Quart" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_quart/ease_in_quart.yy"
+[24-06-2021 16:21:10] Found Script: ease_in_quart
+[24-06-2021 16:21:10] Checking ease_in_quart.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_quint
+[24-06-2021 16:21:10] Checking ease_in_quint.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_quint/ease_in_quint.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_quint/ease_in_quint.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Quint" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_quint/ease_in_quint.yy"
+[24-06-2021 16:21:10] Found Script: ease_in_quint
+[24-06-2021 16:21:10] Checking ease_in_quint.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_sine
+[24-06-2021 16:21:10] Checking ease_in_sine.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_sine/ease_in_sine.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_sine/ease_in_sine.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Sine" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_in_sine/ease_in_sine.yy"
+[24-06-2021 16:21:10] Found Script: ease_in_sine
+[24-06-2021 16:21:10] Checking ease_in_sine.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_back
+[24-06-2021 16:21:10] Checking ease_out_back.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_back/ease_out_back.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_back/ease_out_back.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Back" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_back/ease_out_back.yy"
+[24-06-2021 16:21:10] Found Script: ease_out_back
+[24-06-2021 16:21:10] Checking ease_out_back.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_bounce
+[24-06-2021 16:21:10] Checking ease_out_bounce.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_bounce/ease_out_bounce.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_bounce/ease_out_bounce.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Bounce" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_bounce/ease_out_bounce.yy"
+[24-06-2021 16:21:10] Found Script: ease_out_bounce
+[24-06-2021 16:21:10] Checking ease_out_bounce.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_circ
+[24-06-2021 16:21:10] Checking ease_out_circ.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_circ/ease_out_circ.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_circ/ease_out_circ.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Circ" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_circ/ease_out_circ.yy"
+[24-06-2021 16:21:10] Found Script: ease_out_circ
+[24-06-2021 16:21:10] Checking ease_out_circ.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_cubic
+[24-06-2021 16:21:10] Checking ease_out_cubic.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_cubic/ease_out_cubic.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_cubic/ease_out_cubic.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Cubic" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_cubic/ease_out_cubic.yy"
+[24-06-2021 16:21:10] Found Script: ease_out_cubic
+[24-06-2021 16:21:10] Checking ease_out_cubic.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_elastic
+[24-06-2021 16:21:10] Checking ease_out_elastic.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_elastic/ease_out_elastic.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_elastic/ease_out_elastic.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Elastic" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_elastic/ease_out_elastic.yy"
+[24-06-2021 16:21:10] Found Script: ease_out_elastic
+[24-06-2021 16:21:10] Checking ease_out_elastic.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_expo
+[24-06-2021 16:21:10] Checking ease_out_expo.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_expo/ease_out_expo.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_expo/ease_out_expo.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Expo" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_expo/ease_out_expo.yy"
+[24-06-2021 16:21:10] Found Script: ease_out_expo
+[24-06-2021 16:21:10] Checking ease_out_expo.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_quad
+[24-06-2021 16:21:10] Checking ease_out_quad.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_quad/ease_out_quad.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_quad/ease_out_quad.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Quad" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_quad/ease_out_quad.yy"
+[24-06-2021 16:21:10] Found Script: ease_out_quad
+[24-06-2021 16:21:10] Checking ease_out_quad.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_quart
+[24-06-2021 16:21:10] Checking ease_out_quart.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_quart/ease_out_quart.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_quart/ease_out_quart.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Quart" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_quart/ease_out_quart.yy"
+[24-06-2021 16:21:10] Found Script: ease_out_quart
+[24-06-2021 16:21:10] Checking ease_out_quart.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_quint
+[24-06-2021 16:21:10] Checking ease_out_quint.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_quint/ease_out_quint.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_quint/ease_out_quint.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Quint" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_quint/ease_out_quint.yy"
+[24-06-2021 16:21:10] Found Script: ease_out_quint
+[24-06-2021 16:21:10] Checking ease_out_quint.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_sine
+[24-06-2021 16:21:10] Checking ease_out_sine.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_sine/ease_out_sine.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_sine/ease_out_sine.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing/Sine" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ease_out_sine/ease_out_sine.yy"
+[24-06-2021 16:21:10] Found Script: ease_out_sine
+[24-06-2021 16:21:10] Checking ease_out_sine.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Elastic
+[24-06-2021 16:21:10] Checking Elastic.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FASTManager
+[24-06-2021 16:21:10] Checking FASTManager.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FASTManager/FASTManager.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FASTManager/FASTManager.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FASTManager/FASTManager.yy"
+[24-06-2021 16:21:10] Found Script: FASTManager
+[24-06-2021 16:21:10] Checking FASTManager.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FastStep
+[24-06-2021 16:21:10] Checking FastStep.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FastStep/FastStep.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FastStep/FastStep.yy
+[24-06-2021 16:21:10] ROOT found, not added.
+[24-06-2021 16:21:10] Par: "folders" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FastStep/FastStep.yy"
+[24-06-2021 16:21:10] Found Script: FastStep
+[24-06-2021 16:21:10] Checking FastStep.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FAST_features
+[24-06-2021 16:21:10] Checking FAST_features.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FAST_features/FAST_features.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FAST_features/FAST_features.yy
+[24-06-2021 16:21:10] ROOT found, not added.
+[24-06-2021 16:21:10] Par: "folders" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FAST_features/FAST_features.yy"
+[24-06-2021 16:21:10] Found Script: FAST_features
+[24-06-2021 16:21:10] Checking FAST_features.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FAST_macros
+[24-06-2021 16:21:10] Checking FAST_macros.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FAST_macros/FAST_macros.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FAST_macros/FAST_macros.yy
+[24-06-2021 16:21:10] Par: "folders/FAST" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FAST_macros/FAST_macros.yy"
+[24-06-2021 16:21:10] Found Script: FAST_macros
+[24-06-2021 16:21:10] Checking FAST_macros.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Feature
+[24-06-2021 16:21:10] Checking Feature.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Feature/Feature.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Feature/Feature.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/System/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Feature/Feature.yy"
+[24-06-2021 16:21:10] Found Script: Feature
+[24-06-2021 16:21:10] Checking Feature.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/File
+[24-06-2021 16:21:10] Checking File.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/File/File.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/File/File.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/File Handling/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/File/File.yy"
+[24-06-2021 16:21:10] Found Script: File
+[24-06-2021 16:21:10] Checking File.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileBinary
+[24-06-2021 16:21:10] Checking FileBinary.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileBinary/FileBinary.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileBinary/FileBinary.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/File Handling/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileBinary/FileBinary.yy"
+[24-06-2021 16:21:10] Found Script: FileBinary
+[24-06-2021 16:21:10] Checking FileBinary.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileCSV
+[24-06-2021 16:21:10] Checking FileCSV.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileCSV/FileCSV.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileCSV/FileCSV.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/File Handling/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileCSV/FileCSV.yy"
+[24-06-2021 16:21:10] Found Script: FileCSV
+[24-06-2021 16:21:10] Checking FileCSV.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileFAST
+[24-06-2021 16:21:10] Checking FileFAST.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileFAST/FileFAST.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileFAST/FileFAST.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Database/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileFAST/FileFAST.yy"
+[24-06-2021 16:21:10] Found Script: FileFAST
+[24-06-2021 16:21:10] Checking FileFAST.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileManager
+[24-06-2021 16:21:10] Checking FileManager.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileManager/FileManager.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileManager/FileManager.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/File Handling" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileManager/FileManager.yy"
+[24-06-2021 16:21:10] Found Script: FileManager
+[24-06-2021 16:21:10] Checking FileManager.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileText
+[24-06-2021 16:21:10] Checking FileText.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileText/FileText.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileText/FileText.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/File Handling/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FileText/FileText.yy"
+[24-06-2021 16:21:10] Found Script: FileText
+[24-06-2021 16:21:10] Checking FileText.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/file_get_directory
+[24-06-2021 16:21:10] Checking file_get_directory.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/file_get_directory/file_get_directory.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/file_get_directory/file_get_directory.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/File Handling/Functions" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/file_get_directory/file_get_directory.yy"
+[24-06-2021 16:21:10] Found Script: file_get_directory
+[24-06-2021 16:21:10] Checking file_get_directory.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FrameEvent
+[24-06-2021 16:21:10] Checking FrameEvent.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FrameEvent/FrameEvent.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FrameEvent/FrameEvent.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Events" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/FrameEvent/FrameEvent.yy"
+[24-06-2021 16:21:10] Found Script: FrameEvent
+[24-06-2021 16:21:10] Checking FrameEvent.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Gamepad
+[24-06-2021 16:21:10] Checking Gamepad.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Gamepad/Gamepad.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Gamepad/Gamepad.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Input Handling/Gamepad/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Gamepad/Gamepad.yy"
+[24-06-2021 16:21:10] Found Script: Gamepad
+[24-06-2021 16:21:10] Checking Gamepad.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GamepadManager
+[24-06-2021 16:21:10] Checking GamepadManager.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GamepadManager/GamepadManager.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GamepadManager/GamepadManager.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Input Handling/Gamepad" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GamepadManager/GamepadManager.yy"
+[24-06-2021 16:21:10] Found Script: GamepadManager
+[24-06-2021 16:21:10] Checking GamepadManager.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GamepadPlaystation
+[24-06-2021 16:21:10] Checking GamepadPlaystation.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GamepadPlaystation/GamepadPlaystation.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GamepadPlaystation/GamepadPlaystation.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Input Handling/Gamepad/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GamepadPlaystation/GamepadPlaystation.yy"
+[24-06-2021 16:21:10] Found Script: GamepadPlaystation
+[24-06-2021 16:21:10] Checking GamepadPlaystation.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GamepadXbox
+[24-06-2021 16:21:10] Checking GamepadXbox.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GamepadXbox/GamepadXbox.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GamepadXbox/GamepadXbox.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Input Handling/Gamepad/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GamepadXbox/GamepadXbox.yy"
+[24-06-2021 16:21:10] Found Script: GamepadXbox
+[24-06-2021 16:21:10] Checking GamepadXbox.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GarbageManager
+[24-06-2021 16:21:10] Checking GarbageManager.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GarbageManager/GarbageManager.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GarbageManager/GarbageManager.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Garbage" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GarbageManager/GarbageManager.yy"
+[24-06-2021 16:21:10] Found Script: GarbageManager
+[24-06-2021 16:21:10] Checking GarbageManager.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_grid_create
+[24-06-2021 16:21:10] Checking gc_grid_create.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_grid_create/gc_grid_create.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_grid_create/gc_grid_create.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Garbage/Functions" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_grid_create/gc_grid_create.yy"
+[24-06-2021 16:21:10] Found Script: gc_grid_create
+[24-06-2021 16:21:10] Checking gc_grid_create.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_list_create
+[24-06-2021 16:21:10] Checking gc_list_create.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_list_create/gc_list_create.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_list_create/gc_list_create.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Garbage/Functions" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_list_create/gc_list_create.yy"
+[24-06-2021 16:21:10] Found Script: gc_list_create
+[24-06-2021 16:21:10] Checking gc_list_create.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_map_create
+[24-06-2021 16:21:10] Checking gc_map_create.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_map_create/gc_map_create.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_map_create/gc_map_create.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Garbage/Functions" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_map_create/gc_map_create.yy"
+[24-06-2021 16:21:10] Found Script: gc_map_create
+[24-06-2021 16:21:10] Checking gc_map_create.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_priority_queue_create
+[24-06-2021 16:21:10] Checking gc_priority_queue_create.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_priority_queue_create/gc_priority_queue_create.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_priority_queue_create/gc_priority_queue_create.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Garbage/Functions" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_priority_queue_create/gc_priority_queue_create.yy"
+[24-06-2021 16:21:10] Found Script: gc_priority_queue_create
+[24-06-2021 16:21:10] Checking gc_priority_queue_create.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_queue_create
+[24-06-2021 16:21:10] Checking gc_queue_create.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_queue_create/gc_queue_create.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_queue_create/gc_queue_create.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Garbage/Functions" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_queue_create/gc_queue_create.yy"
+[24-06-2021 16:21:10] Found Script: gc_queue_create
+[24-06-2021 16:21:10] Checking gc_queue_create.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_stack_create
+[24-06-2021 16:21:10] Checking gc_stack_create.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_stack_create/gc_stack_create.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_stack_create/gc_stack_create.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Garbage/Functions" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/gc_stack_create/gc_stack_create.yy"
+[24-06-2021 16:21:10] Found Script: gc_stack_create
+[24-06-2021 16:21:10] Checking gc_stack_create.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GenericOutput
+[24-06-2021 16:21:10] Checking GenericOutput.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GenericOutput/GenericOutput.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GenericOutput/GenericOutput.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/System/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/GenericOutput/GenericOutput.yy"
+[24-06-2021 16:21:10] Found Script: GenericOutput
+[24-06-2021 16:21:10] Checking GenericOutput.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/include
+[24-06-2021 16:21:10] Checking include.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/include/include.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/include/include.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Functions/include" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/include/include.yy"
+[24-06-2021 16:21:10] Found Script: include
+[24-06-2021 16:21:10] Checking include.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputCombo
+[24-06-2021 16:21:10] Checking InputCombo.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputCombo/InputCombo.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputCombo/InputCombo.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Input Handling/Input" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputCombo/InputCombo.yy"
+[24-06-2021 16:21:10] Found Script: InputCombo
+[24-06-2021 16:21:10] Checking InputCombo.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputDevice
+[24-06-2021 16:21:10] Checking InputDevice.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputDevice/InputDevice.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputDevice/InputDevice.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Input Handling/Input" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputDevice/InputDevice.yy"
+[24-06-2021 16:21:10] Found Script: InputDevice
+[24-06-2021 16:21:10] Checking InputDevice.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputGeneric
+[24-06-2021 16:21:10] Checking InputGeneric.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputGeneric/InputGeneric.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputGeneric/InputGeneric.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Input Handling/Input" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputGeneric/InputGeneric.yy"
+[24-06-2021 16:21:10] Found Script: InputGeneric
+[24-06-2021 16:21:10] Checking InputGeneric.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputManager
+[24-06-2021 16:21:10] Checking InputManager.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputManager/InputManager.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputManager/InputManager.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Input Handling" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputManager/InputManager.yy"
+[24-06-2021 16:21:10] Found Script: InputManager
+[24-06-2021 16:21:10] Checking InputManager.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputMethod
+[24-06-2021 16:21:10] Checking InputMethod.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputMethod/InputMethod.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputMethod/InputMethod.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Input Handling/Input" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/InputMethod/InputMethod.yy"
+[24-06-2021 16:21:10] Found Script: InputMethod
+[24-06-2021 16:21:10] Checking InputMethod.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/int_wrap
+[24-06-2021 16:21:10] Checking int_wrap.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/int_wrap/int_wrap.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/int_wrap/int_wrap.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Functions/int" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/int_wrap/int_wrap.yy"
+[24-06-2021 16:21:10] Found Script: int_wrap
+[24-06-2021 16:21:10] Checking int_wrap.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/is_struct_of
+[24-06-2021 16:21:10] Checking is_struct_of.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/is_struct_of/is_struct_of.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/is_struct_of/is_struct_of.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Functions/is" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/is_struct_of/is_struct_of.yy"
+[24-06-2021 16:21:10] Found Script: is_struct_of
+[24-06-2021 16:21:10] Checking is_struct_of.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/KeyboardKey
+[24-06-2021 16:21:10] Checking KeyboardKey.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/KeyboardKey/KeyboardKey.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/KeyboardKey/KeyboardKey.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Input Handling/Keyboard" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/KeyboardKey/KeyboardKey.yy"
+[24-06-2021 16:21:10] Found Script: KeyboardKey
+[24-06-2021 16:21:10] Checking KeyboardKey.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Logger
+[24-06-2021 16:21:10] Checking Logger.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Logger/Logger.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Logger/Logger.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Logging/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Logger/Logger.yy"
+[24-06-2021 16:21:10] Found Script: Logger
+[24-06-2021 16:21:10] Checking Logger.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/LogManager
+[24-06-2021 16:21:10] Checking LogManager.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/LogManager/LogManager.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/LogManager/LogManager.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Logging" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/LogManager/LogManager.yy"
+[24-06-2021 16:21:10] Found Script: LogManager
+[24-06-2021 16:21:10] Checking LogManager.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/log_critical
+[24-06-2021 16:21:10] Checking log_critical.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/log_critical/log_critical.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/log_critical/log_critical.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Logging/Functions" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/log_critical/log_critical.yy"
+[24-06-2021 16:21:10] Found Script: log_critical
+[24-06-2021 16:21:10] Checking log_critical.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/log_debug
+[24-06-2021 16:21:10] Checking log_debug.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/log_debug/log_debug.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/log_debug/log_debug.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Logging/Functions" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/log_debug/log_debug.yy"
+[24-06-2021 16:21:10] Found Script: log_debug
+[24-06-2021 16:21:10] Checking log_debug.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/log_nonfatal
+[24-06-2021 16:21:10] Checking log_nonfatal.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/log_nonfatal/log_nonfatal.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/log_nonfatal/log_nonfatal.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Logging/Functions" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/log_nonfatal/log_nonfatal.yy"
+[24-06-2021 16:21:10] Found Script: log_nonfatal
+[24-06-2021 16:21:10] Checking log_nonfatal.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/log_notify
+[24-06-2021 16:21:10] Checking log_notify.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/log_notify/log_notify.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/log_notify/log_notify.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Logging/Functions" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/log_notify/log_notify.yy"
+[24-06-2021 16:21:10] Found Script: log_notify
+[24-06-2021 16:21:10] Checking log_notify.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/MouseButton
+[24-06-2021 16:21:10] Checking MouseButton.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/MouseButton/MouseButton.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/MouseButton/MouseButton.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Input Handling/Mouse" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/MouseButton/MouseButton.yy"
+[24-06-2021 16:21:10] Found Script: MouseButton
+[24-06-2021 16:21:10] Checking MouseButton.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/MouseWheelDown
+[24-06-2021 16:21:10] Checking MouseWheelDown.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/MouseWheelDown/MouseWheelDown.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/MouseWheelDown/MouseWheelDown.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Input Handling/Mouse" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/MouseWheelDown/MouseWheelDown.yy"
+[24-06-2021 16:21:10] Found Script: MouseWheelDown
+[24-06-2021 16:21:10] Checking MouseWheelDown.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/MouseWheelUp
+[24-06-2021 16:21:10] Checking MouseWheelUp.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/MouseWheelUp/MouseWheelUp.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/MouseWheelUp/MouseWheelUp.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Input Handling/Mouse" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/MouseWheelUp/MouseWheelUp.yy"
+[24-06-2021 16:21:10] Found Script: MouseWheelUp
+[24-06-2021 16:21:10] Checking MouseWheelUp.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Pair
+[24-06-2021 16:21:10] Checking Pair.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Pair/Pair.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Pair/Pair.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Types" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Pair/Pair.yy"
+[24-06-2021 16:21:10] Found Script: Pair
+[24-06-2021 16:21:10] Checking Pair.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Parser
+[24-06-2021 16:21:10] Checking Parser.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Parser/Parser.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Parser/Parser.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Parser" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Parser/Parser.yy"
+[24-06-2021 16:21:10] Found Script: Parser
+[24-06-2021 16:21:10] Checking Parser.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PointerInterface
+[24-06-2021 16:21:10] Checking PointerInterface.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PointerInterface/PointerInterface.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PointerInterface/PointerInterface.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Pointer/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PointerInterface/PointerInterface.yy"
+[24-06-2021 16:21:10] Found Script: PointerInterface
+[24-06-2021 16:21:10] Checking PointerInterface.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PointerManager
+[24-06-2021 16:21:10] Checking PointerManager.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PointerManager/PointerManager.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PointerManager/PointerManager.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Pointer" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PointerManager/PointerManager.yy"
+[24-06-2021 16:21:10] Found Script: PointerManager
+[24-06-2021 16:21:10] Checking PointerManager.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PointerSimpleMouse
+[24-06-2021 16:21:10] Checking PointerSimpleMouse.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PointerSimpleMouse/PointerSimpleMouse.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PointerSimpleMouse/PointerSimpleMouse.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Pointer/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PointerSimpleMouse/PointerSimpleMouse.yy"
+[24-06-2021 16:21:10] Found Script: PointerSimpleMouse
+[24-06-2021 16:21:10] Checking PointerSimpleMouse.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PointerStack
+[24-06-2021 16:21:10] Checking PointerStack.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PointerStack/PointerStack.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PointerStack/PointerStack.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Pointer/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PointerStack/PointerStack.yy"
+[24-06-2021 16:21:10] Found Script: PointerStack
+[24-06-2021 16:21:10] Checking PointerStack.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Publisher
+[24-06-2021 16:21:10] Checking Publisher.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Publisher/Publisher.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Publisher/Publisher.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Publisher/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Publisher/Publisher.yy"
+[24-06-2021 16:21:10] Found Script: Publisher
+[24-06-2021 16:21:10] Checking Publisher.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PublisherChannel
+[24-06-2021 16:21:10] Checking PublisherChannel.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PublisherChannel/PublisherChannel.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PublisherChannel/PublisherChannel.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Publisher/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PublisherChannel/PublisherChannel.yy"
+[24-06-2021 16:21:10] Found Script: PublisherChannel
+[24-06-2021 16:21:10] Checking PublisherChannel.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PublisherManager
+[24-06-2021 16:21:10] Checking PublisherManager.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PublisherManager/PublisherManager.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PublisherManager/PublisherManager.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Publisher" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/PublisherManager/PublisherManager.yy"
+[24-06-2021 16:21:10] Found Script: PublisherManager
+[24-06-2021 16:21:10] Checking PublisherManager.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/README_math_interpolation_easing
+[24-06-2021 16:21:10] Checking README_math_interpolation_easing.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/README_math_interpolation_easing/README_math_interpolation_easing.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/README_math_interpolation_easing/README_math_interpolation_easing.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Interpolation/Easing" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/README_math_interpolation_easing/README_math_interpolation_easing.yy"
+[24-06-2021 16:21:10] Found Script: README_math_interpolation_easing
+[24-06-2021 16:21:10] Checking README_math_interpolation_easing.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/RenderList
+[24-06-2021 16:21:10] Checking RenderList.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/RenderList/RenderList.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/RenderList/RenderList.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Render/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/RenderList/RenderList.yy"
+[24-06-2021 16:21:10] Found Script: RenderList
+[24-06-2021 16:21:10] Checking RenderList.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/RenderManager
+[24-06-2021 16:21:10] Checking RenderManager.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/RenderManager/RenderManager.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/RenderManager/RenderManager.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Render" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/RenderManager/RenderManager.yy"
+[24-06-2021 16:21:10] Found Script: RenderManager
+[24-06-2021 16:21:10] Checking RenderManager.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Script
+[24-06-2021 16:21:10] Checking Script.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Script/Script.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Script/Script.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Scripting/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Script/Script.yy"
+[24-06-2021 16:21:10] Found Script: Script
+[24-06-2021 16:21:10] Checking Script.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptEngine
+[24-06-2021 16:21:10] Checking ScriptEngine.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptEngine/ScriptEngine.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptEngine/ScriptEngine.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Scripting/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptEngine/ScriptEngine.yy"
+[24-06-2021 16:21:10] Found Script: ScriptEngine
+[24-06-2021 16:21:10] Checking ScriptEngine.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptExpression
+[24-06-2021 16:21:10] Checking ScriptExpression.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptExpression/ScriptExpression.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptExpression/ScriptExpression.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Scripting/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptExpression/ScriptExpression.yy"
+[24-06-2021 16:21:10] Found Script: ScriptExpression
+[24-06-2021 16:21:10] Checking ScriptExpression.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptExpressionValues
+[24-06-2021 16:21:10] Checking ScriptExpressionValues.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptExpressionValues/ScriptExpressionValues.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptExpressionValues/ScriptExpressionValues.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Scripting/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptExpressionValues/ScriptExpressionValues.yy"
+[24-06-2021 16:21:10] Found Script: ScriptExpressionValues
+[24-06-2021 16:21:10] Checking ScriptExpressionValues.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptManager
+[24-06-2021 16:21:10] Checking ScriptManager.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptManager/ScriptManager.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptManager/ScriptManager.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Scripting" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptManager/ScriptManager.yy"
+[24-06-2021 16:21:10] Found Script: ScriptManager
+[24-06-2021 16:21:10] Checking ScriptManager.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptParser
+[24-06-2021 16:21:10] Checking ScriptParser.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptParser/ScriptParser.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptParser/ScriptParser.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Scripting/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptParser/ScriptParser.yy"
+[24-06-2021 16:21:10] Found Script: ScriptParser
+[24-06-2021 16:21:10] Checking ScriptParser.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptStatement
+[24-06-2021 16:21:10] Checking ScriptStatement.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptStatement/ScriptStatement.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptStatement/ScriptStatement.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Scripting/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ScriptStatement/ScriptStatement.yy"
+[24-06-2021 16:21:10] Found Script: ScriptStatement
+[24-06-2021 16:21:10] Checking ScriptStatement.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/script_evaluate_expression
+[24-06-2021 16:21:10] Checking script_evaluate_expression.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/script_evaluate_expression/script_evaluate_expression.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/script_evaluate_expression/script_evaluate_expression.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Scripting/Functions" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/script_evaluate_expression/script_evaluate_expression.yy"
+[24-06-2021 16:21:10] Found Script: script_evaluate_expression
+[24-06-2021 16:21:10] Checking script_evaluate_expression.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/script_evaluate_traverse
+[24-06-2021 16:21:10] Checking script_evaluate_traverse.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/script_evaluate_traverse/script_evaluate_traverse.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/script_evaluate_traverse/script_evaluate_traverse.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Scripting/Functions" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/script_evaluate_traverse/script_evaluate_traverse.yy"
+[24-06-2021 16:21:10] Found Script: script_evaluate_traverse
+[24-06-2021 16:21:10] Checking script_evaluate_traverse.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/script_evaluate_traverse_set
+[24-06-2021 16:21:10] Checking script_evaluate_traverse_set.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/script_evaluate_traverse_set/script_evaluate_traverse_set.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/script_evaluate_traverse_set/script_evaluate_traverse_set.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Scripting/Functions" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/script_evaluate_traverse_set/script_evaluate_traverse_set.yy"
+[24-06-2021 16:21:10] Found Script: script_evaluate_traverse_set
+[24-06-2021 16:21:10] Checking script_evaluate_traverse_set.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/script_file_load
+[24-06-2021 16:21:10] Checking script_file_load.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/script_file_load/script_file_load.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/script_file_load/script_file_load.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Scripting/Functions" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/script_file_load/script_file_load.yy"
+[24-06-2021 16:21:10] Found Script: script_file_load
+[24-06-2021 16:21:10] Checking script_file_load.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Shape
+[24-06-2021 16:21:10] Checking Shape.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Shape/Shape.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Shape/Shape.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Shapes" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Shape/Shape.yy"
+[24-06-2021 16:21:10] Found Script: Shape
+[24-06-2021 16:21:10] Checking Shape.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapeCircle
+[24-06-2021 16:21:10] Checking ShapeCircle.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapeCircle/ShapeCircle.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapeCircle/ShapeCircle.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Shapes" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapeCircle/ShapeCircle.yy"
+[24-06-2021 16:21:10] Found Script: ShapeCircle
+[24-06-2021 16:21:10] Checking ShapeCircle.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapeEllipses
+[24-06-2021 16:21:10] Checking ShapeEllipses.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapeEllipses/ShapeEllipses.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapeEllipses/ShapeEllipses.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Shapes" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapeEllipses/ShapeEllipses.yy"
+[24-06-2021 16:21:10] Found Script: ShapeEllipses
+[24-06-2021 16:21:10] Checking ShapeEllipses.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapeGrid
+[24-06-2021 16:21:10] Checking ShapeGrid.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapeGrid/ShapeGrid.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapeGrid/ShapeGrid.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Shapes" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapeGrid/ShapeGrid.yy"
+[24-06-2021 16:21:10] Found Script: ShapeGrid
+[24-06-2021 16:21:10] Checking ShapeGrid.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapePolygon
+[24-06-2021 16:21:10] Checking ShapePolygon.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapePolygon/ShapePolygon.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapePolygon/ShapePolygon.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Shapes" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapePolygon/ShapePolygon.yy"
+[24-06-2021 16:21:10] Found Script: ShapePolygon
+[24-06-2021 16:21:10] Checking ShapePolygon.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapeRectangle
+[24-06-2021 16:21:10] Checking ShapeRectangle.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapeRectangle/ShapeRectangle.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapeRectangle/ShapeRectangle.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Shapes" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/ShapeRectangle/ShapeRectangle.yy"
+[24-06-2021 16:21:10] Found Script: ShapeRectangle
+[24-06-2021 16:21:10] Checking ShapeRectangle.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Sine
+[24-06-2021 16:21:10] Checking Sine.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/String
+[24-06-2021 16:21:10] Checking String.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/String/String.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/String/String.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Types/String" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/String/String.yy"
+[24-06-2021 16:21:10] Found Script: String
+[24-06-2021 16:21:10] Checking String.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/StringFormatter
+[24-06-2021 16:21:10] Checking StringFormatter.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/StringFormatter/StringFormatter.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/StringFormatter/StringFormatter.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Parser" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/StringFormatter/StringFormatter.yy"
+[24-06-2021 16:21:10] Found Script: StringFormatter
+[24-06-2021 16:21:10] Checking StringFormatter.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/StringNumber
+[24-06-2021 16:21:10] Checking StringNumber.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/StringNumber/StringNumber.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/StringNumber/StringNumber.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Types/String" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/StringNumber/StringNumber.yy"
+[24-06-2021 16:21:10] Found Script: StringNumber
+[24-06-2021 16:21:10] Checking StringNumber.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/StringTime
+[24-06-2021 16:21:10] Checking StringTime.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/StringTime/StringTime.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/StringTime/StringTime.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Types/String" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/StringTime/StringTime.yy"
+[24-06-2021 16:21:10] Found Script: StringTime
+[24-06-2021 16:21:10] Checking StringTime.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_con
+[24-06-2021 16:21:10] Checking string_con.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_con/string_con.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_con/string_con.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Functions/string" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_con/string_con.yy"
+[24-06-2021 16:21:10] Found Script: string_con
+[24-06-2021 16:21:10] Checking string_con.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_explode
+[24-06-2021 16:21:10] Checking string_explode.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_explode/string_explode.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_explode/string_explode.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Functions/string" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_explode/string_explode.yy"
+[24-06-2021 16:21:10] Found Script: string_explode
+[24-06-2021 16:21:10] Checking string_explode.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_explode_reverse
+[24-06-2021 16:21:10] Checking string_explode_reverse.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_explode_reverse/string_explode_reverse.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_explode_reverse/string_explode_reverse.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Functions/string" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_explode_reverse/string_explode_reverse.yy"
+[24-06-2021 16:21:10] Found Script: string_explode_reverse
+[24-06-2021 16:21:10] Checking string_explode_reverse.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_find_first
+[24-06-2021 16:21:10] Checking string_find_first.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_find_first/string_find_first.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_find_first/string_find_first.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Functions/string" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_find_first/string_find_first.yy"
+[24-06-2021 16:21:10] Found Script: string_find_first
+[24-06-2021 16:21:10] Checking string_find_first.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_justify
+[24-06-2021 16:21:10] Checking string_justify.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_justify/string_justify.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_justify/string_justify.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Functions/string" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_justify/string_justify.yy"
+[24-06-2021 16:21:10] Found Script: string_justify
+[24-06-2021 16:21:10] Checking string_justify.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_to_real
+[24-06-2021 16:21:10] Checking string_to_real.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_to_real/string_to_real.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_to_real/string_to_real.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Functions/string" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_to_real/string_to_real.yy"
+[24-06-2021 16:21:10] Found Script: string_to_real
+[24-06-2021 16:21:10] Checking string_to_real.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_trim
+[24-06-2021 16:21:10] Checking string_trim.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_trim/string_trim.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_trim/string_trim.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Functions/string" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/string_trim/string_trim.yy"
+[24-06-2021 16:21:10] Found Script: string_trim
+[24-06-2021 16:21:10] Checking string_trim.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Surface
+[24-06-2021 16:21:10] Checking Surface.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Surface/Surface.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Surface/Surface.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Types" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Surface/Surface.yy"
+[24-06-2021 16:21:10] Found Script: Surface
+[24-06-2021 16:21:10] Checking Surface.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/SystemOutput
+[24-06-2021 16:21:10] Checking SystemOutput.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/SystemOutput/SystemOutput.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/SystemOutput/SystemOutput.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/System/Structs" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/SystemOutput/SystemOutput.yy"
+[24-06-2021 16:21:10] Found Script: SystemOutput
+[24-06-2021 16:21:10] Checking SystemOutput.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/test_DsLinkedList
+[24-06-2021 16:21:10] Checking test_DsLinkedList.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/test_DsLinkedList/test_DsLinkedList.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/test_DsLinkedList/test_DsLinkedList.yy
+[24-06-2021 16:21:10] Par: "folders/TEST_CASES/Core" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/test_DsLinkedList/test_DsLinkedList.yy"
+[24-06-2021 16:21:10] Found Script: test_DsLinkedList
+[24-06-2021 16:21:10] Checking test_DsLinkedList.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/test_DsWalkable
+[24-06-2021 16:21:10] Checking test_DsWalkable.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/test_DsWalkable/test_DsWalkable.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/test_DsWalkable/test_DsWalkable.yy
+[24-06-2021 16:21:10] Par: "folders/TEST_CASES/Core" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/test_DsWalkable/test_DsWalkable.yy"
+[24-06-2021 16:21:10] Found Script: test_DsWalkable
+[24-06-2021 16:21:10] Checking test_DsWalkable.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/test_Scripts
+[24-06-2021 16:21:10] Checking test_Scripts.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/test_Scripts/test_Scripts.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/test_Scripts/test_Scripts.yy
+[24-06-2021 16:21:10] Par: "folders/TEST_CASES/Scripts" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/test_Scripts/test_Scripts.yy"
+[24-06-2021 16:21:10] Found Script: test_Scripts
+[24-06-2021 16:21:10] Checking test_Scripts.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/test_validator
+[24-06-2021 16:21:10] Checking test_validator.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/test_validator/test_validator.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/test_validator/test_validator.yy
+[24-06-2021 16:21:10] Par: "folders/TEST_CASES" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/test_validator/test_validator.yy"
+[24-06-2021 16:21:10] Found Script: test_validator
+[24-06-2021 16:21:10] Checking test_validator.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Timer
+[24-06-2021 16:21:10] Checking Timer.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Timer/Timer.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Timer/Timer.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Data Types" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Timer/Timer.yy"
+[24-06-2021 16:21:10] Found Script: Timer
+[24-06-2021 16:21:10] Checking Timer.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/variable_traverse_string
+[24-06-2021 16:21:10] Checking variable_traverse_string.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/variable_traverse_string/variable_traverse_string.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/variable_traverse_string/variable_traverse_string.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Functions/variable" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/variable_traverse_string/variable_traverse_string.yy"
+[24-06-2021 16:21:10] Found Script: variable_traverse_string
+[24-06-2021 16:21:10] Checking variable_traverse_string.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Vec2
+[24-06-2021 16:21:10] Checking Vec2.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Vec2/Vec2.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Vec2/Vec2.yy
+[24-06-2021 16:21:10] ROOT found, not added.
+[24-06-2021 16:21:10] Par: "folders" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Vec2/Vec2.yy"
+[24-06-2021 16:21:10] Found Script: Vec2
+[24-06-2021 16:21:10] Checking Vec2.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Vec3
+[24-06-2021 16:21:10] Checking Vec3.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Vec3/Vec3.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Vec3/Vec3.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Math/Geometry" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/Vec3/Vec3.yy"
+[24-06-2021 16:21:10] Found Script: Vec3
+[24-06-2021 16:21:10] Checking Vec3.gml
+[24-06-2021 16:21:10] Checking Vec2.yy
+[24-06-2021 16:21:10] Trash file: Vec2.yy, will be moved to ___yyp_maker_trash
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/version_to_struct
+[24-06-2021 16:21:10] Checking version_to_struct.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/version_to_struct/version_to_struct.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/version_to_struct/version_to_struct.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/Functions/version" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/scripts/version_to_struct/version_to_struct.yy"
+[24-06-2021 16:21:10] Found Script: version_to_struct
+[24-06-2021 16:21:10] Checking version_to_struct.gml
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sequences
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/shaders
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sounds
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites
+[24-06-2021 16:21:10] Checking gfx_sys_terminal0
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_sys_terminal0
+[24-06-2021 16:21:10] Checking gfx_sys_disk0
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_sys_disk0
+[24-06-2021 16:21:10] Checking gfx_rect
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_rect
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_rect
+[24-06-2021 16:21:10] Checking layers
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_rect/layers
+[24-06-2021 16:21:10] Checking gfx_rect.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_rect/gfx_rect.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_rect/gfx_rect.yy
+[24-06-2021 16:21:10] Par: "folders/TEST_CASES/Pointer" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_rect/gfx_rect.yy"
+[24-06-2021 16:21:10] Found Sprite: gfx_rect
+[24-06-2021 16:21:10] Checking f12ea975-efb7-4d74-89c6-0940289961b3.png
+[24-06-2021 16:21:10] Checking c86b7b92-37bf-4172-be8c-0b610cc2f123.png
+[24-06-2021 16:21:10] Checking b0c01adc-9776-4506-9753-394685f97d8d.png
+[24-06-2021 16:21:10] Checking 4bed716d-214c-4535-9933-96c630218923.png
+[24-06-2021 16:21:10] Checking 455cc62f-330c-4167-8930-65b87edb5dbc.png
+[24-06-2021 16:21:10] Checking 4496626e-d9c0-4172-b11b-beaa4a3ed939.png
+[24-06-2021 16:21:10] Checking 2d9e9028-4884-4416-807f-4d256bc52bcd.png
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_rect/layers
+[24-06-2021 16:21:10] Checking f12ea975-efb7-4d74-89c6-0940289961b3
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_rect/layers/f12ea975-efb7-4d74-89c6-0940289961b3
+[24-06-2021 16:21:10] Checking c86b7b92-37bf-4172-be8c-0b610cc2f123
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_rect/layers/c86b7b92-37bf-4172-be8c-0b610cc2f123
+[24-06-2021 16:21:10] Checking b0c01adc-9776-4506-9753-394685f97d8d
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_rect/layers/b0c01adc-9776-4506-9753-394685f97d8d
+[24-06-2021 16:21:10] Checking 4bed716d-214c-4535-9933-96c630218923
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_rect/layers/4bed716d-214c-4535-9933-96c630218923
+[24-06-2021 16:21:10] Checking 455cc62f-330c-4167-8930-65b87edb5dbc
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_rect/layers/455cc62f-330c-4167-8930-65b87edb5dbc
+[24-06-2021 16:21:10] Checking 4496626e-d9c0-4172-b11b-beaa4a3ed939
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_rect/layers/4496626e-d9c0-4172-b11b-beaa4a3ed939
+[24-06-2021 16:21:10] Checking 2d9e9028-4884-4416-807f-4d256bc52bcd
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_rect/layers/2d9e9028-4884-4416-807f-4d256bc52bcd
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_rect/layers/2d9e9028-4884-4416-807f-4d256bc52bcd
+[24-06-2021 16:21:10] Checking beb297d0-2f46-44b6-ba44-0512f20e40e2.png
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_rect/layers/4496626e-d9c0-4172-b11b-beaa4a3ed939
+[24-06-2021 16:21:10] Checking beb297d0-2f46-44b6-ba44-0512f20e40e2.png
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_rect/layers/455cc62f-330c-4167-8930-65b87edb5dbc
+[24-06-2021 16:21:10] Checking beb297d0-2f46-44b6-ba44-0512f20e40e2.png
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_rect/layers/4bed716d-214c-4535-9933-96c630218923
+[24-06-2021 16:21:10] Checking beb297d0-2f46-44b6-ba44-0512f20e40e2.png
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_rect/layers/b0c01adc-9776-4506-9753-394685f97d8d
+[24-06-2021 16:21:10] Checking beb297d0-2f46-44b6-ba44-0512f20e40e2.png
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_rect/layers/c86b7b92-37bf-4172-be8c-0b610cc2f123
+[24-06-2021 16:21:10] Checking beb297d0-2f46-44b6-ba44-0512f20e40e2.png
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_rect/layers/f12ea975-efb7-4d74-89c6-0940289961b3
+[24-06-2021 16:21:10] Checking beb297d0-2f46-44b6-ba44-0512f20e40e2.png
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_sys_disk0
+[24-06-2021 16:21:10] Checking layers
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_sys_disk0/layers
+[24-06-2021 16:21:10] Checking gfx_sys_disk0.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_sys_disk0/gfx_sys_disk0.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_sys_disk0/gfx_sys_disk0.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/System/Sprites" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_sys_disk0/gfx_sys_disk0.yy"
+[24-06-2021 16:21:10] Found Sprite: gfx_sys_disk0
+[24-06-2021 16:21:10] Checking 2f520ccd-8261-4860-9598-3ead5ad7139d.png
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_sys_disk0/layers
+[24-06-2021 16:21:10] Checking 2f520ccd-8261-4860-9598-3ead5ad7139d
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_sys_disk0/layers/2f520ccd-8261-4860-9598-3ead5ad7139d
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_sys_disk0/layers/2f520ccd-8261-4860-9598-3ead5ad7139d
+[24-06-2021 16:21:10] Checking 701ca58a-383c-446a-a879-af66dbb6e98b.png
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_sys_terminal0
+[24-06-2021 16:21:10] Checking layers
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_sys_terminal0/layers
+[24-06-2021 16:21:10] Checking gfx_sys_terminal0.yy
+[24-06-2021 16:21:10] Parsing C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_sys_terminal0/gfx_sys_terminal0.yy
+[24-06-2021 16:21:10] Reading C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_sys_terminal0/gfx_sys_terminal0.yy
+[24-06-2021 16:21:10] Par: "folders/FAST/Core/System/Sprites" at dir: "C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_sys_terminal0/gfx_sys_terminal0.yy"
+[24-06-2021 16:21:10] Found Sprite: gfx_sys_terminal0
+[24-06-2021 16:21:10] Checking da4324ac-b595-4b99-9d35-74aef1bdcc51.png
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_sys_terminal0/layers
+[24-06-2021 16:21:10] Checking da4324ac-b595-4b99-9d35-74aef1bdcc51
+[24-06-2021 16:21:10] Directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_sys_terminal0/layers/da4324ac-b595-4b99-9d35-74aef1bdcc51
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/sprites/gfx_sys_terminal0/layers/da4324ac-b595-4b99-9d35-74aef1bdcc51
+[24-06-2021 16:21:10] Checking becb23a5-576e-4334-8795-d6e7826f17ed.png
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/tilesets
+[24-06-2021 16:21:10] Current parent directory: C:/Users/drago/Documents/GameMakerStudio2/FAST/timelines
+[24-06-2021 16:21:10] Moving files to trash...
+[24-06-2021 16:21:10] Files yeeted successfully!
+[24-06-2021 16:21:10] Generating YYP...
+[24-06-2021 16:21:10] FAST.yyp created successfully!
